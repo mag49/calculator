@@ -9,7 +9,7 @@ Description
 Setup/Installation Requirement
 To start using this project use the following commands:
 
-git clone https://mag49.github.io/My-portfolio/ cd my-portfolio atom . code . [//]: # (this is if Visual Studio Code is your preferred text editor)
+git clone https://mag49.github.io/calculator/ cd calculator atom . code . [//]: # (this is if Visual Studio Code is your preferred text editor)
 
 Known Bugs
 No bugs
@@ -21,4 +21,4 @@ Support and contact details
 You can make contributions should you identify any issue
 
 License
-No licence https://mag49.github.io/My-portfolio/
+No licence
